@@ -75,7 +75,7 @@ def main():
     st.header("Real Time Speech-to-Text")
     st.markdown(
         """
-This demo app is using [DeepSpeech](https://github.com/mozilla/DeepSpeech),
+This app is using [DeepSpeech](https://github.com/mozilla/DeepSpeech),
 an open speech-to-text engine.
 
 A pre-trained model released with
